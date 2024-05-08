@@ -1,7 +1,7 @@
 # PRAISE AND WORSHIP
 | ENGLISH   PRAISE        | ENGLISH WORSHIP            |   | TAGALOG PRAISE                | TAGALOG WORSHIP              |
 |-------------------------|----------------------------|---|-------------------------------|------------------------------|
-| Celebrate   Jesus       | Come Holy Spirit           |   | Mahal Na Mahal Kita Panginoon | Banal Mong Tahanan           |
+| [Celebrate   Jesus](https://github.com/fbspw/lyrics/blob/main/eng_praise/celebrate_jesus.md)       | Come Holy Spirit           |   | Mahal Na Mahal Kita Panginoon | Banal Mong Tahanan           |
 | Glorious   Day          | Deeper                     |   | Halinat Sama Sama             | Dakila Ka                    |
 | Raise A   Hallelujah    | Empty Words                |   | Kamusta Ka Na                 | Dakilang Katapatan           |
 | Jesus Is   Alive        | Great Are You Lord         |   | Katulad Ng Mga Agila          | Di Ka Nagkulang              |
