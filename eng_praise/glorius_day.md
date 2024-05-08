@@ -41,13 +41,6 @@ The old made new, Jesus, when I met You \
               Gsus2                           D \
 You called my name and I ran out of that grave
  
-**Chorus 1** \
-D          Gsus2                           D \
-Out of the darkness into Your glorious day \
-D             Gsus2                            Bm7 \
-You called my name and I ran out of that grave \
-           Gsus2                          D \
-Out of the darkness into Your glorious day \
  
 **Instrumental** \
       D
@@ -71,11 +64,3 @@ I have a future, my eyes are open \
 'Cause when You called my name \
                        D \
 I ran out of that grave 
- 
-**Chorus 2** \
-D          Gsus2                          D \
-Out of the darkness into Your glorious day \
-D             Gsus2                           Bm7 \
-You called my name and I ran out of that grave \
-           Gsus2                          Gsus2 \
-Out of the darkness into Your glorious day 
