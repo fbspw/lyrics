@@ -1,6 +1,6 @@
-# Raise A Hallelujah \
+# Raise A Hallelujah
 
-by Bethel Music \
+by Bethel Music
 
 **Intro** \
 C
@@ -46,8 +46,7 @@ Sing a little louder (louder than the unbelief) \
 Am \
 Sing a little louder (my weapon is a melody) \
 F \
-Sing a little louder (heaven comes to fight for me)  x2
- 
+Sing a little louder (heaven comes to fight for me)  x2 \
 F \
 Sing a little louder \
   \
