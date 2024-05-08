@@ -24,5 +24,5 @@
 |                         | Worthy Is The Lamb         |   |                               |                              |
 |                         | [Shout to the Lord](https://github.com/fbspw/lyrics/blob/main/eng_praise/shout_to_the_lord.md)          |   |                               |                              |
 |                         | [As We Gather](https://github.com/fbspw/lyrics/blob/main/eng_praise/as_we_gather.md)               |   |                               |                              |
-|                         | Above All                  |   |                               |                              |
+|                         | [Above All](https://github.com/fbspw/lyrics/blob/main/eng_praise/above_all.md)                  |   |                               |                              |
 |                         | In Moments Like This       |   |                               |                              |
