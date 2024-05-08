@@ -12,7 +12,7 @@ Knowing well that as our hearts begin to  worship \
 Dm7        G                 C  G/B  Am7 G \
 We'll be blessed because we came \
 Dm7        G                  C \
-We'll be blessed because we came \
+We'll be blessed because we came
  
 **Verse 2** \
 C             Em7           F        Gsus  G \
