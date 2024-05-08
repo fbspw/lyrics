@@ -32,7 +32,7 @@ Like a rose, trampled on the ground \
              Am        G/B        C  D \
 You took the fall, and thought of me  \
        G \
-Above all \
+Above all
 
 **Coda** \
         Em   D               C    G/B \
@@ -40,4 +40,4 @@ Like a rose, trampled on the ground \
              Am        G/B        C  D \
 You took the fall, and thought of me  \
        G \
-Above all \
+Above all
