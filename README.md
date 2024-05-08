@@ -3,7 +3,7 @@
 |-------------------------|----------------------------|---|-------------------------------|------------------------------|
 | [Celebrate   Jesus](https://github.com/fbspw/lyrics/blob/main/eng_praise/celebrate_jesus.md)       | Come Holy Spirit           |   | Mahal Na Mahal Kita Panginoon | Banal Mong Tahanan           |
 | [Glorious   Day](https://github.com/fbspw/lyrics/blob/main/eng_praise/glorius_day.md)          | Deeper                     |   | Halinat Sama Sama             | Dakila Ka                    |
-| Raise A   Hallelujah    | Empty Words                |   | Kamusta Ka Na                 | Dakilang Katapatan           |
+| [Raise A   Hallelujah](https://github.com/fbspw/lyrics/blob/main/eng_praise/raise_a_hallelujah.md)    | Empty Words                |   | Kamusta Ka Na                 | Dakilang Katapatan           |
 | Jesus Is   Alive        | Great Are You Lord         |   | Katulad Ng Mga Agila          | Di Ka Nagkulang              |
 | Nothing Is   Impossible | Hosanna                    |   | Salamat Salamat               | Diyos Ka Sa Amin             |
 | Praise                  | I Exalt Thee               |   | Mahal na Mahal Kita           | Goodness Of God              |
