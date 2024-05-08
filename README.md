@@ -22,7 +22,7 @@
 |                         | Trust In God               |   |                               |                              |
 |                         | Way Maker                  |   |                               |                              |
 |                         | Worthy Is The Lamb         |   |                               |                              |
-|                         | Shout to the Lord          |   |                               |                              |
+|                         | [Shout to the Lord](https://github.com/fbspw/lyrics/blob/main/eng_praise/shout_to_the_lord.md)          |   |                               |                              |
 |                         | As We Gather               |   |                               |                              |
 |                         | Above All                  |   |                               |                              |
 |                         | In Moments Like This       |   |                               |                              |
