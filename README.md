@@ -23,6 +23,6 @@
 |                         | Way Maker                  |   |                               |                              |
 |                         | Worthy Is The Lamb         |   |                               |                              |
 |                         | [Shout to the Lord](https://github.com/fbspw/lyrics/blob/main/eng_praise/shout_to_the_lord.md)          |   |                               |                              |
-|                         | As We Gather               |   |                               |                              |
+|                         | [As We Gather](https://github.com/fbspw/lyrics/blob/main/eng_praise/as_we_gather.md)               |   |                               |                              |
 |                         | Above All                  |   |                               |                              |
 |                         | In Moments Like This       |   |                               |                              |
