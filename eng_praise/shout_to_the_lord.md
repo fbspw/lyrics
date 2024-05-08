@@ -25,4 +25,4 @@ All of my days, I want to praise, the wonders of your mighty love \
 G           D            Em        D            C
  My comfort, My shelter, tower of refuge and strength \
             G                Em                 F  C/E  Dsus4 D \
-Let every breath, all that I am, never cease to worship you \
+Let every breath, all that I am, never cease to worship you
