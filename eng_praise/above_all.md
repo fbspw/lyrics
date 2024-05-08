@@ -22,7 +22,7 @@ Above all wealth and treasures of the earth \
 Am                C                   B7 B \
 There's no way to measure what you're worth
  
-**Chorus**
+**Chorus** \
 G     Am   D             G \
 Crucified, laid behind a stone \
 G            Am     D          G \
