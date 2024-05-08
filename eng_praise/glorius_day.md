@@ -70,7 +70,7 @@ I have a future, my eyes are open \
                           Gsus2 \
 'Cause when You called my name \
                        D \
-I ran out of that grave \
+I ran out of that grave 
  
 **Chorus 2** \
 D          Gsus2                          D \
@@ -78,4 +78,4 @@ Out of the darkness into Your glorious day \
 D             Gsus2                           Bm7 \
 You called my name and I ran out of that grave \
            Gsus2                          Gsus2 \
-Out of the darkness into Your glorious day \
+Out of the darkness into Your glorious day 
